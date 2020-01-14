@@ -1,0 +1,8 @@
+max_connections: [50,151]
+max_allowed_packet: [800000,16777216]
+innodb_buffer_pool_size: [100000,134217728]
+read_buffer_size: [10000,131072]
+table_open_cache: [1000,2000]
+thread_cache_size: [4,8]
+key_buffer_size: [400000,8777216]
+sort_buffer_size: [130000,262144]

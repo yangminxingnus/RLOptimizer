@@ -1,0 +1,7 @@
+table_open_cache:1024
+sort_buffer_size:2048
+read_buffer_size:256
+join_buffer_size:1024
+thread_cache_size:4
+innodb_buffer_pool_size:131702
+innodb_log_file_size:524288

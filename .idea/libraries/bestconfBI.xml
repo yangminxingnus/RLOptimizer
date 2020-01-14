@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bestconfBI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/deploy/4BI/bestconfBI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

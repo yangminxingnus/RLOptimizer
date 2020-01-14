@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="4Tomcat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/deploy/4Tomcat/bestconfTomcat.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deploy/4Tomcat/apache-jmeter-3.1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

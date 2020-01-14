@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jniloader-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ganymed-ssh2-build210.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jyaml-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JRIEngine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsch-0.1.50.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cassandra-driver-core-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xercesImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/wekaExtra.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JRI.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/wekaZyq.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
